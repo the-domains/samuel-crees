@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some of the best things shared on the Interent, have changed from version to version, but one I love to share, and is written by a man no one wants to recognize, mainly because of his way of looking at life.\_ He wrote many bokks, and was an advisor to many, and so I will share the real version, and you will reocgnize it right off."
-datePublished: '2016-04-06T20:05:21.015Z'
-dateModified: '2016-04-06T20:04:06.357Z'
+datePublished: '2016-04-07T20:35:17.598Z'
+dateModified: '2016-04-07T20:32:52.844Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-06-some-of-the-best-things-shared-on-the-interent-have-changed.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-some-of-the-best-things-shared-on-the-interent-have-changed.md
-published: true
 url: some-of-the-best-things-shared-on-the-interent-have-changed/index.html
 _type: Article
 
