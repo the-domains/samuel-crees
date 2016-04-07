@@ -4,8 +4,15 @@
         <description><![CDATA[Samuel Crees]]></description>
         <link>https://thegrid.ai/samuel-crees/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 22:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 22:48:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samuel-crees/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7a175c1-75cd-4aa0-aee4-d02ae5e7fbcd.jpg">]]></description>
+            <link>https://thegrid.ai/samuel-crees/perhaps-i-will-show-another-more-important-view-of-what-ha/index.html</link>
+            <guid isPermaLink="false">e3aa38ec-584e-471a-8676-446b4600463c</guid>
+            <pubDate>Thu, 07 Apr 2016 22:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbeef427-662f-4395-a28e-ddb893b252fb.jpg">]]></description>
@@ -68,17 +75,6 @@
             <link>https://thegrid.ai/samuel-crees/my-web-sties-will-be-an-extension-of-life-what-it-takes-to/index.html</link>
             <guid isPermaLink="false">bce63deb-e3dc-4228-8a6b-99bf24712dff</guid>
             <pubDate>Thu, 07 Apr 2016 21:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Like Ripples in a Body of Water]]></title>
-            <description><![CDATA[<article><h1>Like Ripples in a Body of Water</h1><p>When I was a kid I loved to throw rocks, pebbles, and other objects 
-into the small pond by our house to see the differences in the rings or 
-out ward waves as they moved across the water towards the shore. Watch 
-closely, the splash of the object is over in an instant, but the ripples
- continue.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe14482-7c8b-4fa2-8a76-d681d2f4e27e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/samuel-crees/like-ripples-in-a-body-of-water/index.html</link>
-            <guid isPermaLink="false">a11e0924-a780-461e-9be0-ba1a194d7206</guid>
-            <pubDate>Wed, 06 Apr 2016 18:14:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
